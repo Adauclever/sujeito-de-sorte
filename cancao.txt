@@ -22,6 +22,6 @@ Mas esse ano eu não morro
 Ano passado eu morri
 Mas esse ano eu não morro
 A vida tem um repositório,
-E o merge traz um conflito;
+E o merge vem com um conflito;
 Os commits que nós criamos
 Ficam no histórico, está escrito.
